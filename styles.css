@@ -1,0 +1,71 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+div {
+    height: 100px;
+    width: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    font-size: 12rem;
+}
+
+img {
+    background-color: black;
+}
+
+img:hover {
+    width: 100%;
+}
+
+.goals-container {
+    border: thick;
+    border-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.random-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.letter-p:hover {
+    color: green;
+}
+
+
+.letter-l:hover {
+    color: yellow;
+}
+
+
+.letter-a:hover {
+    color: red;
+}
+
+
+.letter-y:hover {
+    color: blue;
+}
